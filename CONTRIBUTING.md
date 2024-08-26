@@ -53,7 +53,7 @@ Thank you for considering contributing to the AI-ML-Concepts repository! We welc
 
 ## Reporting Issues
 
-If you encounter any bugs or have suggestions for improvements, please create an issue using the [Issue Tracker](https://github.com/yourusername/AI-ML-Concepts/issues).
+If you encounter any bugs or have suggestions for improvements, please create an issue using the [Issue Tracker](https://github.com/prblsing/AI-ML-Concepts/issues).
 
 ## Code of Conduct
 
